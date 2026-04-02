@@ -6,7 +6,7 @@ import NewsCard from "../components/NewsCard";
 import BlogCard from "../components/BlogCard";
 import PeopleStream from "../components/PeopleStream";
 import logoUrl from "../assets/logo_long.png";
-import groupPictureUrl from "../assets/group_picture_2023.png";
+import groupPictureUrl from "../assets/group_picture_2026.jpg";
 import imgResearchPillar1 from "../assets/research_pillar_1.png";
 import imgResearchPillar2 from "../assets/research_pillar_2.png";
 import imgResearchPillar3 from "../assets/research_pillar_3.png";
@@ -31,7 +31,7 @@ export default function Home() {
             <Box 
               component="img"
               src={groupPictureUrl}
-              alt="Group picture 2023"
+              alt="Group picture 2026"
               loading="lazy"
               sx={{
                 width: "100%",
@@ -42,7 +42,7 @@ export default function Home() {
               }}
             />
             <Typography variant="caption" color="text.secondary" sx={{ display: "block", mt: 0.75, textAlign: "center" }}>
-              Our group in 2023, from left to right and top to bottom: Mahdere Shimels, Niek de Jonge, Rosina Torres Ortega, Robert Koetsier, Justin van der Hooft, Annette Lien, Jonas Dietrich, Felicia Wolters, David Meijer, Kumar Saurabh Singh, Mitja Zdouc, Kevin Mildau, and Suraj Muralidhar. Not present in photo: Kekeletso Chele, Kgalaletso Othibeng, Elena del Pup, Morenta Tinte, Helge Hecht, and Giulia Crocioni.
+              Our group in 2026, from left to right: Ioannis Kontogiannis, Jorick van IJcken, Joelle Mergola Greef, Niek de Jonge, Justin van der Hooft, Robert Koetsier, Felicia Wolters, Jonas Dietrich, Esteban Charria Giron, Larissa Della Vedova, Paula Derksen Macruz and Elena Ferri.
             </Typography>
           </Box>
           <Box sx={{ display: "flex", flexDirection: "column", gap: 1, pb: 2 }}>
