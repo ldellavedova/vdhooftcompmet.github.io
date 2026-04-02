@@ -2,7 +2,7 @@
 id: niek-de-jonge-2
 name: Niek de Jonge
 role: Postdoctoral researcher
-status: current
+status: alumni
 affiliations: []
 email:
 portrait: /images/people/niek-de-jonge.jpg # REQUIRED
