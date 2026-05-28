@@ -2,7 +2,7 @@
 id: ioannis-kontogiannis
 name: Ioannis Kontogiannis
 role: MSc student
-status: current
+status: alumni
 affiliations: ["Wageningen University"]
 email:
 portrait: /images/people/ioannis-kontogiannis.jpg
