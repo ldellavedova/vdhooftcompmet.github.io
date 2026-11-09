@@ -2,7 +2,7 @@
 id: esteban-charria-giron
 name: Esteban Charria Girón
 role: Postdoctoral researcher
-status: current
+status: alumni
 affiliations: []
 email:
 portrait: /images/people/esteban-charria-giron.jpg # REQUIRED
